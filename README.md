@@ -1,6 +1,4 @@
-# portfolio_db
-
-Gracias al Señor.
+# Gracias al Señor.
 
 Base de datos simple para mostrar proyectos en tu portfolio. Sin usuarios ni contraseñas.
 
